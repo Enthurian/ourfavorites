@@ -1,0 +1,6 @@
+This file, named subfile, originates in subdirectory subdir1/
+It has a few lines.
+Not too many.
+Just enough to demonstrate things like "diff".
+And perhaps enough to show conflicts.
+That is, if multiple simultaneous changes are made.
