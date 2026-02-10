@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 Chocolate Ice Cream
 Donuts
+=======
+Watermelon
+Pumpkin Pie
+
+>>>>>>> 4146e73 (	favorite-movies.txt)
